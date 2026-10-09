@@ -1,0 +1,6 @@
+{
+  "appId": "com.goodfriends.travelaccounting",
+  "appName": "Good Friends 旅行记账管家",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}

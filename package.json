@@ -1,0 +1,17 @@
+{
+  "name": "good-friends-travel-accounting",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Good Friends Travel Accounting Android",
+  "scripts": {
+    "build": "echo no-build-needed",
+    "cap:add": "cap add android",
+    "cap:sync": "cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/core": "5.7.8",
+    "@capacitor/cli": "5.7.8",
+    "@capacitor/android": "5.7.8"
+  },
+  "devDependencies": {}
+}
